@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587180886 source:c:\users\david\onedrive\escritorio\utn\programacion y laboratorio\calculadora\calculadora\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1587178707 c:\users\david\onedrive\escritorio\utn\programacion y laboratorio\calculadora\calculadora\biblioteca.h
+
+1587181530 source:c:\users\david\onedrive\escritorio\utn\programacion y laboratorio\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
